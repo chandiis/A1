@@ -1,2 +1,1 @@
-# A1
-Programmering I kurs
+# Programmering 1 uppgift
